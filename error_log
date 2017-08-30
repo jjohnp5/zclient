@@ -1,0 +1,219 @@
+[28-Aug-2017 08:10:33 America/Chicago] PHP Fatal error:  Call to undefined function msqli_fetch_array() in /home3/johnlagm/public_html/zclient/home.php on line 20
+[28-Aug-2017 08:11:34 America/Chicago] PHP Fatal error:  Call to undefined function msqli_fetch_array() in /home3/johnlagm/public_html/zclient/home.php on line 20
+[28-Aug-2017 12:41:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/johnlagm/public_html/zclient/processadd.php on line 4
+[28-Aug-2017 12:41:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/johnlagm/public_html/zclient/processadd.php on line 4
+[28-Aug-2017 12:41:46 America/Chicago] PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in /home3/johnlagm/public_html/zclient/processadd.php on line 2
+[28-Aug-2017 12:44:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 5
+[28-Aug-2017 12:44:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 5
+[28-Aug-2017 12:44:42 America/Chicago] PHP Fatal error:  Call to undefined function headers() in /home3/johnlagm/public_html/zclient/processadd.php on line 5
+[28-Aug-2017 12:45:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 5
+[28-Aug-2017 12:45:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 4
+[28-Aug-2017 12:45:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 4
+[28-Aug-2017 12:46:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:3) in /home3/johnlagm/public_html/zclient/processadd.php on line 4
+[28-Aug-2017 13:03:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 12
+[28-Aug-2017 13:04:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 11
+[28-Aug-2017 13:09:26 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home3/johnlagm/public_html/zclient/processadd.php on line 10
+[28-Aug-2017 13:09:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 13
+[28-Aug-2017 13:12:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 13
+[28-Aug-2017 13:12:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 13
+[28-Aug-2017 13:26:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/johnlagm/public_html/zclient/processadd.php on line 14
+[28-Aug-2017 13:26:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/johnlagm/public_html/zclient/processadd.php on line 14
+[28-Aug-2017 13:41:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/processadd.php on line 11
+[28-Aug-2017 13:41:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/johnlagm/public_html/zclient/processadd.php:11) in /home3/johnlagm/public_html/zclient/processadd.php on line 19
+[28-Aug-2017 15:10:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/johnlagm/public_html/zclient/home.php on line 27
+[28-Aug-2017 15:10:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home3/johnlagm/public_html/zclient/home.php on line 99
+[28-Aug-2017 15:10:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home3/johnlagm/public_html/zclient/home.php on line 99
+[28-Aug-2017 15:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/johnlagm/public_html/zclient/processadd.php on line 13
+[28-Aug-2017 15:29:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/johnlagm/public_html/zclient/home.php on line 29
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:10:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:06 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:07 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:08 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:11 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:14 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:15 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'lname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:11:35 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:12:51 America/Chicago] PHP Warning:  Illegal string offset 'fname' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[28-Aug-2017 22:17:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/johnlagm/public_html/zclient/home.php on line 109
+[29-Aug-2017 07:09:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/johnlagm/public_html/zclient/clients.php on line 93
+[29-Aug-2017 07:12:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/johnlagm/public_html/zclient/clients.php on line 93
+[29-Aug-2017 07:12:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/johnlagm/public_html/zclient/clients.php on line 93
+[29-Aug-2017 07:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/johnlagm/public_html/zclient/clients.php on line 93
+[29-Aug-2017 07:12:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/johnlagm/public_html/zclient/clients.php on line 93
+[29-Aug-2017 07:12:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/johnlagm/public_html/zclient/clients.php:2) in /home3/johnlagm/public_html/zclient/clients.php on line 3
+[29-Aug-2017 07:13:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/johnlagm/public_html/zclient/clients.php:2) in /home3/johnlagm/public_html/zclient/clients.php on line 3
+[29-Aug-2017 07:14:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/johnlagm/public_html/zclient/clients.php:2) in /home3/johnlagm/public_html/zclient/clients.php on line 3
+[29-Aug-2017 07:14:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/johnlagm/public_html/zclient/clients.php:2) in /home3/johnlagm/public_html/zclient/clients.php on line 3
+[29-Aug-2017 10:17:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:17:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:42:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 10
+[29-Aug-2017 10:45:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 10
+[29-Aug-2017 10:45:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 10
+[29-Aug-2017 10:46:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:47:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 10
+[29-Aug-2017 10:47:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:51:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 10
+[29-Aug-2017 10:51:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:52:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:53:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:53:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:54:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:55:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:55:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:55:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:55:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:55:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:59:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 10:59:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:00:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:01:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:37:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:39:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:40:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:41:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:42:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:43:51 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:44:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/clients.php on line 109
+[29-Aug-2017 11:56:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'txtSearch' (T_STRING), expecting ',' or ';' in /home3/johnlagm/public_html/zclient/clients.php on line 113
+[29-Aug-2017 12:34:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:35:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:35:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:35:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:35:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:35:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:36:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:36:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:41:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:41:24 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:41:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:48:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:48:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 12:48:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 7
+[29-Aug-2017 13:01:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 9
+[29-Aug-2017 13:01:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/johnlagm/public_html/zclient/getsearch.php on line 9
+[29-Aug-2017 15:43:30 America/Chicago] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 3
+[29-Aug-2017 15:43:34 America/Chicago] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home3/johnlagm/public_html/zclient/getsearch.php on line 3

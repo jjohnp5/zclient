@@ -1,0 +1,62 @@
+html, body{
+    height: 100%;
+}
+body{
+    padding-top: 50px;
+    z-index: 1;
+    color: white;
+}
+.background{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 0;
+}
+.container{
+  position: relative;
+  padding-top: 10vh;
+  text-align: center !important;
+  z-index: 10;
+}
+@media (max-width: 575px){
+  .forms{
+    max-width: 80vw;
+    max-height: 90vh;
+  }
+  .container{
+    padding-top: 0;
+  }
+}
+.forms{
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 5vh;
+}
+.login-form{
+    display: none;
+    padding-top: 1vh;
+}
+.suggestions {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  /*perspective:20px;*/
+      }
+      .suggestions li {
+  background:white;
+  list-style: none;
+  border-bottom: 1px solid #D8D8D8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+  margin:0;
+  padding:20px;
+  transition:background 0.2s;
+  display:flex;
+  justify-content:space-between;
+  text-transform: capitalize;
+      }

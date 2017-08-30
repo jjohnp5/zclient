@@ -1,0 +1,38 @@
+html, body{
+    height: 100%;
+}
+body{
+    padding-top: 50px;
+    z-index: 1;
+    color: black;
+}
+.background{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 0;
+}
+.container{
+  position: relative;
+  padding-top: 10vh;
+  text-align: center !important;
+  z-index: 10;
+}
+@media (max-width: 575px){
+  .forms{
+    max-width: 80vw;
+    max-height: 90vh;
+  }
+  .container{
+    padding-top: 0;
+  }
+}
+.addForm{
+  display: none;
+}

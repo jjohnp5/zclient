@@ -1,0 +1,15 @@
+insert into users (fname, lname, email, password) values ('Donnie', 'Gandar', 'dgandar0@moonfruit.com', 'gCWOuRSe');
+insert into users (fname, lname, email, password) values ('Ambrose', 'Hessay', 'ahessay1@nature.com', 'ZbJouL');
+insert into users (fname, lname, email, password) values ('Auberta', 'Juleff', 'ajuleff2@ucla.edu', '0hATB2Zv');
+insert into users (fname, lname, email, password) values ('Wells', 'Rapps', 'wrapps3@chron.com', 'bfAhxdki');
+insert into users (fname, lname, email, password) values ('Belle', 'Grigor', 'bgrigor4@thetimes.co.uk', 'dNJxYUS');
+insert into users (fname, lname, email, password) values ('Marianna', 'Rigolle', 'mrigolle5@archive.org', 'xIyhMKCD');
+insert into users (fname, lname, email, password) values ('Ulrika', 'Armer', 'uarmer6@cmu.edu', 'XJaGBm');
+insert into users (fname, lname, email, password) values ('Terry', 'Duckerin', 'tduckerin7@addtoany.com', '4jeAwjb');
+insert into users (fname, lname, email, password) values ('Nicolas', 'Brattan', 'nbrattan8@wordpress.org', 'D873Ll14sc');
+insert into users (fname, lname, email, password) values ('Meriel', 'Coade', 'mcoade9@cmu.edu', 'TZhX4hzp');
+insert into users (fname, lname, email, password) values ('Cale', 'McKeurtan', 'cmckeurtana@biblegateway.com', 'D1tGhgCfU');
+insert into users (fname, lname, email, password) values ('Penrod', 'Stoeck', 'pstoeckb@e-recht24.de', '5r3fv1i6cGu');
+insert into users (fname, lname, email, password) values ('Kristofer', 'Thonason', 'kthonasonc@ustream.tv', 'Oj66Xi1Y');
+insert into users (fname, lname, email, password) values ('Wyatt', 'Brignall', 'wbrignalld@tinypic.com', '4u1RRoLOat');
+insert into users (fname, lname, email, password) values ('Lucille', 'Arnoldi', 'larnoldie@thetimes.co.uk', 'UlXpJx4yOYV');
