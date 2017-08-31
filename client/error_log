@@ -1,0 +1,14 @@
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(mysql/connections.php): failed to open stream: No such file or directory in /home3/johnlagm/public_html/zclient/client/client.php on line 8
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(mysql/connections.php): failed to open stream: No such file or directory in /home3/johnlagm/public_html/zclient/client/client.php on line 8
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(): Failed opening 'mysql/connections.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home3/johnlagm/public_html/zclient/client/client.php on line 8
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 9
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 10
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 11
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(mysql/connections.php): failed to open stream: No such file or directory in /home3/johnlagm/public_html/zclient/client/client.php on line 18
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(mysql/connections.php): failed to open stream: No such file or directory in /home3/johnlagm/public_html/zclient/client/client.php on line 18
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  include(): Failed opening 'mysql/connections.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home3/johnlagm/public_html/zclient/client/client.php on line 18
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 19
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 20
+[30-Aug-2017 08:33:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/johnlagm/public_html/zclient/client/client.php on line 21
+[30-Aug-2017 08:57:43 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home3/johnlagm/public_html/zclient/client/client.php on line 71
+[30-Aug-2017 09:09:05 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/johnlagm/public_html/zclient/client/client.php on line 71

@@ -20,7 +20,7 @@ function showSearch() {
                 searchList.innerHTML = this.responseText;
             }
         };
-        xmlhttp.open("GET","mysql/getsearch.php?q="+str,true);
+        xmlhttp.open("GET","../mysql/getsearch.php?q="+str,true);
         xmlhttp.send();
     }
 }

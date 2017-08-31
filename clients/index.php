@@ -5,7 +5,7 @@ if(array_key_exists('id', $_COOKIE)){
     $_SESSION['id'] = $_COOKIE['id'];
 }
 if(array_key_exists('id', $_SESSION)){
-  include 'mysql/connections.php';
+  include '../mysql/connections.php';
   $query = "SELECT * FROM `users` WHERE id = '".mysqli_real_escape_string($connect, $_SESSION['id'])."' LIMIT 1";
   $result = mysqli_query($connect, $query);
   $row = mysqli_fetch_array($result);
@@ -15,7 +15,7 @@ if(array_key_exists('id', $_SESSION)){
     header("Location: index.php");
 }
 if(array_key_exists('cid', $_GET)){
-  include 'mysql/connections.php';
+  include '../mysql/connections.php';
   $clientQuery = "SELECT * FROM `clients` WHERE cid='".mysqli_real_escape_string($connect, $_GET['cid'])."' LIMIT 1";
   $clientResult = mysqli_query($connect, $clientQuery);
   $clientRows = mysqli_fetch_array($clientResult);
@@ -76,10 +76,10 @@ if(array_key_exists('cid', $_GET)){
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="./">Home  <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="../">Home  <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="clients.php">Clients</a>
+            <a class="nav-link" href="./">Clients</a>
           </li>
 
         </ul>
@@ -110,7 +110,7 @@ if(array_key_exists('cid', $_GET)){
 
   </div>
 
-  <script async src="client-page.js" charset="utf-8"></script>
+  <script async src="../client-page.js" charset="utf-8"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>

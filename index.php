@@ -17,7 +17,7 @@ if(array_key_exists("signup", $_POST)){
     $fname = $_POST['fname'];
     $lname = $_POST['lname'];
 
-    include 'mysql/connections.php';
+    include './mysql/connections.php';
 
     if(!$_POST['email']){
         $error .= "An email address is required";
@@ -38,14 +38,14 @@ if(array_key_exists("signup", $_POST)){
                 $error = "<p>Could not sign you up, try again later.</p>";
             }else{
                 $query = "UPDATE `users` SET password = '".md5(md5(mysqli_insert_id($connect)).$password)."' WHERE id = ".mysqli_insert_id($connect)." LIMIT 1";
-                mysqli_query($connect, $query);
-                $_SESSION["id"] = mysqli_insert_id($connect);
+                $_SESSION['id'] = mysqli_insert_id($connect);
+                mysqli_query($connect, $query); 
                 if($_POST['stayLoggedIn'] == '1'){
                     setcookie("id", mysqli_insert_id($connect), time() + 60*60*24*365);
                 }
-                header("Location: home.php");
 
             }
+            header("Location: home.php");
         }
     }
 

@@ -1,17 +1,9 @@
 <?php
-
-
 session_start();
 
-$email = "";
-$clientExists = "";
 if(array_key_exists('id', $_COOKIE)){
     $_SESSION['id'] = $_COOKIE['id'];
-
-
 }
-
-
 if(array_key_exists('id', $_SESSION)){
     $connect = mysqli_connect("localhost", "johnlagm_john", "USnavy1989", "johnlagm_users");
     if(mysqli_connect_error()){
@@ -60,7 +52,7 @@ if(array_key_exists("email", $_GET)){
             <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="clients.php">Clients</a>
+            <a class="nav-link" href="./clients">Clients</a>
           </li>
 
         </ul>
@@ -95,14 +87,14 @@ if(array_key_exists("email", $_GET)){
     <h2>Clients</h2>
     <div class="row">
       <div class="col-xs-12 col-sm-6">
-        <div class='list-group'>
+        <ul class='list-group'>
         <?php
         while($clientRows = mysqli_fetch_array($clients)){
-            echo "<a href='#' class='list-group-item'>".$clientRows['lname'].", ".$clientRows['fname']."</a>";
+            echo "<li class='list-group-item'><a href='./client/client.php?cid=".$clientRows['cid']."' >".ucfirst($clientRows['lname']).", ".ucfirst($clientRows['fname'])."</a></li>";
           }
 
         ?>
-        </div>
+      </ul>
       </div>
       <div class="col-xs-12 col-sm-6">
         <?php
@@ -117,7 +109,7 @@ if(array_key_exists("email", $_GET)){
         }
         ?>
         <input type="button" class="show btn" value="Add Clients">
-        <a href="clients.php" class="btn btn-primary">Search Clients</a>
+        <a href="./clients" class="btn btn-primary">Search Clients</a>
         <form method="post" action="mysql/processadd.php" class="addForm clientForm" style="padding-top: 25px;">
           <div class="form-group">
               <input type="text" class="form-control" id="fname" placeholder="First" name="fname">
