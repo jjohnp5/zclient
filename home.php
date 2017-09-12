@@ -5,10 +5,7 @@ if(array_key_exists('id', $_COOKIE)){
     $_SESSION['id'] = $_COOKIE['id'];
 }
 if(array_key_exists('id', $_SESSION)){
-    $connect = mysqli_connect("localhost", "johnlagm_john", "USnavy1989", "johnlagm_users");
-    if(mysqli_connect_error()){
-        die("Database connection failed.");
-    }
+   include "./mysql/connections.php";
     $query = "SELECT * FROM `users` WHERE id = '".mysqli_real_escape_string($connect, $_SESSION['id'])."' LIMIT 1";
     $result = mysqli_query($connect, $query);
     $row = mysqli_fetch_array($result);
