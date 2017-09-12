@@ -52,10 +52,7 @@ if(array_key_exists("signup", $_POST)){
 }elseif(array_key_exists("login", $_POST)){
     $email = $_POST['email'];
     $password = $_POST['password'];
-    $connect = mysqli_connect("localhost", "johnlagm_john", "USnavy1989", "johnlagm_users");
-    if(mysqli_connect_error()){
-        die("Database connection failed.");
-    }
+    include "./mysql/connections.php";
     $query = "SELECT * FROM `users` WHERE email = '".mysqli_real_escape_string($connect, $email)."'";
     $result = mysqli_query($connect, $query);
     $row = mysqli_fetch_array($result);
